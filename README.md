@@ -34,7 +34,7 @@ This project is deployed using **GitHub Pages**. You can access it using the fol
 1. Go to **Settings** in the GitHub repository.
 2. Under **Pages**, set the branch to `main` and click **Save**.
 3. The project will be live at:
-   ```
+```
 https://vpandeytiet.github.io/File-Zipper/
 ```
 
